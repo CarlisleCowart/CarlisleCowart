@@ -1,6 +1,10 @@
 ![decrotave banner image](getHub.png)
 
-## Hi there 👋
+## Hi there 👋 
+## 💼 Carlisle Cowart | Student Developer
+👨‍💻 Passionate about building clean, efficient code
+🌱 Always ready to learn
+🎓Technical skills: HTML,CSS,JavaScript
 
 <!--
 **CarlisleCowart/CarlisleCowart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
